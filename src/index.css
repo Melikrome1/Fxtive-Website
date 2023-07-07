@@ -1,0 +1,18 @@
+body{
+  background-color:rgb(151, 146, 146);
+}
+
+.navbar-nav.ml-auto {
+  justify-content: flex-end;
+}
+
+.navbar-nav.ml-auto .nav-link {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.navbar-nav.ml-auto .login-link,
+.navbar-nav.ml-auto .signup-link {
+  margin-left: auto;
+  justify-content:flex-end;
+}
